@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\C#练习\Convert\Conversion\Conversion\obj\Debug\Conversion.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#练习\Convert\Conversion\Conversion\obj\Debug\Conversion.Frm_main.resources
+C:\Users\Administrator\Desktop\C#练习\Convert\Conversion\Conversion\obj\Debug\Conversion.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#练习\Convert\Conversion\Conversion\obj\Debug\Conversion.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\C#练习\Convert\Conversion\Conversion\obj\Debug\Conversion.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C#练习\Convert\Conversion\Conversion\bin\Debug\Conversion.exe.config
+C:\Users\Administrator\Desktop\C#练习\Convert\Conversion\Conversion\bin\Debug\Conversion.exe
+C:\Users\Administrator\Desktop\C#练习\Convert\Conversion\Conversion\bin\Debug\Conversion.pdb
+C:\Users\Administrator\Desktop\C#练习\Convert\Conversion\Conversion\obj\Debug\Conversion.exe
+C:\Users\Administrator\Desktop\C#练习\Convert\Conversion\Conversion\obj\Debug\Conversion.pdb
